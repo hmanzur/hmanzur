@@ -1,6 +1,6 @@
 # Hmanzur Profile
 
-<div>
+<div style="display:block; width:100%">
   <a href="https://twitter.com/habibmanzur">
     <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
