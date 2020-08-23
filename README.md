@@ -1,7 +1,5 @@
 # Hmanzur Profile
 
-<br/>
-
 <a href="https://twitter.com/habibmanzur">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -34,7 +32,7 @@
   <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" />
 </a>
 
-<br/>
+## Stats
 
 [![Hmanzur's github stats](https://github-readme-stats.vercel.app/api?username=hmanzur&show_icons=true)](https://github.com/hmanzur)
 
