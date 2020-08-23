@@ -1,5 +1,9 @@
 # Hi i'm Hmanzur
 
+![Profile views](https://gpvc.arturio.dev/hmanzur) 
+
+On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. But in my heart, I am a gamer.
+
 <p>
   <a href="https://twitter.com/habibmanzur">
     <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -40,6 +44,14 @@
 </p>
 
 <br>
+
+## Skills
+
+### DevOps Skills
+
+### Backend Skills
+
+###
 
 ## Stats
 
