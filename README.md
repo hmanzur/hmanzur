@@ -5,6 +5,10 @@
 On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. But in my heart, I am a gamer.
 
 <p>
+  <a href="https://www.npmjs.com/~hmanzur">
+    <img align="left" alt="NPM Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/npm.svg" />
+  </a>
+  
   <a href="https://twitter.com/habibmanzur">
     <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
@@ -40,7 +44,6 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
   <a href="mailto:hmanzursoft@gmail.com">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
   </a>
-  
 </p>
 
 <br>
