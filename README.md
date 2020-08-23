@@ -52,7 +52,18 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
 
 ### DevOps Skills
 
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.svg)
+![Terraform](https://img.icons8.com/color/48/000000/amazon-web-services.svg)
+![Ansible](https://img.icons8.com/color/48/000000/amazon-web-services.svg)
+![CI/CD](https://img.icons8.com/color/48/000000/amazon-web-services.svg)
+
 ### Backend Skills
+
+![Python](https://img.icons8.com/color/48/000000/python.svg)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.svg)
+![PHP](https://img.icons8.com/color/48/000000/php-logo.svg) 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.svg)
+![Kotlin](https://img.icons8.com/color/48/000000/kotlin.svg)
 
 ###
 
