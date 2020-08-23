@@ -1,6 +1,6 @@
 # Hmanzur Profile
 
-<p>
+<div>
   <a href="https://twitter.com/habibmanzur">
     <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
@@ -32,8 +32,13 @@
   <a href="https://www.twitch.tv/hmanzur">
     <img align="left" alt="Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitch.svg" />
   </a>
-</p>
 
+  <a href="mailto:hmanzursoft@gmail.com">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
+  </a>
+</div>
+
+## Stats
 
 [![Hmanzur's github stats](https://github-readme-stats.vercel.app/api?username=hmanzur&show_icons=true)](https://github.com/hmanzur)
 
