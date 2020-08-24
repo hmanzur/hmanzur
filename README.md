@@ -59,6 +59,19 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
 ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.svg)
 ![Android](https://img.icons8.com/color/48/000000/android-os.svg)
 
+### DevOps Skills
+
+<p>
+  <img src="/assets/aws.svg" width="48">
+  <img src="/assets/azure.svg" width="48">
+  <img src="/assets/docker.svg" width="48">
+  <img src="/assets/circle-ci.svg" width="48">
+  <img src="/assets/git.svg" width="48">
+  <img src="/assets/linux.svg" width="48">
+  <img src="/assets/yaml.svg" width="48">
+  <img src="/assets/terraform.svg" width="48">
+</p>
+
 ## Stats
 
 [![Hmanzur's github stats](https://github-readme-stats.vercel.app/api?username=hmanzur&show_icons=true)](https://github.com/hmanzur)
