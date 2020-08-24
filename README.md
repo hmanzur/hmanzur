@@ -62,14 +62,14 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
 ### DevOps Skills
 
 <p>
-  <img src="assets/aws.svg" height="48">
-  <img src="assets/azure.svg" height="48">
-  <img src="assets/docker.svg" height="48">
-  <img src="assets/circle-ci.svg" height="48">
-  <img src="assets/git.svg" height="48">
-  <img src="assets/linux.svg" height="48">
-  <img src="assets/yaml.svg" height="48">
-  <img src="assets/terraform.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/aws.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/azure.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/docker.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/circle-ci.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/git.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/linux.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/yaml.svg" height="48">
+  <img src="https://raw.githubusercontent.com/hmanzur/hmanzur/master/assets/terraform.svg" height="48">
 </p>
 
 ## Stats
