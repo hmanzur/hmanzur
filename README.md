@@ -52,6 +52,10 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
   <a href="#SW-4364-3761-7223">
     <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/nintendoswitch.svg" alt="SW-4364-3761-7223" />
   </a>
+  
+  <a href="https://paypal.me/habibmanzur">
+    <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/paypal.svg" />
+  </a>
 
 </p>
 
