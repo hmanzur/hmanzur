@@ -92,4 +92,4 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
 
 [![Hmanzur's github stats](https://github-readme-stats.vercel.app/api?username=hmanzur&show_icons=true&count_private=true)](https://github.com/hmanzur)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmanzur&layout=compact&count_private=true)](https://github.com/hmanzur)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmanzur&layout=compact&count_private=true)](https://github.com/hmanzur?tab=repositories)
