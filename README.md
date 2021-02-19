@@ -1,14 +1,16 @@
 # Hi i'm Hmanzur
 
-![Profile views](https://gpvc.arturio.dev/hmanzur) ![GitHub User's stars](https://img.shields.io/github/stars/hmanzur?color=%2324292e&style=flat)
+![Profile views](https://gpvc.arturio.dev/hmanzur) ![GitHub User's stars](https://img.shields.io/github/stars/hmanzur?color=%2324292e&style=flat) 
+![Follow me](https://img.shields.io/twitter/follow/habibmanzur?color=%231DA1F2&label=Follow%20me&logo=twitter&style=flat)
 
 On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. But in my heart, I am a gamer.
 
-[![~hmanzur](https://img.shields.io/static/v1?label=npmjs&message=~hmanzur&logo=npm&style=for-the-badge&color=%23CB3837)](https://www.npmjs.com/~hmanzur)
-[![@habibmanzur](https://img.shields.io/twitter/follow/habibmanzur?color=%231DA1F2&label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/habibmanzur)
-[![~hmanzur](https://img.shields.io/static/v1?label=linkedin&message=In&logo=linkedin&style=for-the-badge&color=%23CB3837)](https://www.linkedin.com/in/habibmanzur/)
+# Social profiles
 
-
+[![](https://img.shields.io/static/v1?label=npmjs&message=~hmanzur&logo=npm&style=for-the-badge&color=%23CB3837)](https://www.npmjs.com/~hmanzur)
+[![](https://img.shields.io/static/v1?label=Hire%20me&message=In&logo=linkedin&style=for-the-badge&color=%23CB3837)](https://www.linkedin.com/in/habibmanzur/)
+[![](https://img.shields.io/static/v1?label=Text%20me&message=Telegram&logo=telegram&style=for-the-badge&color=%2326A5E4)](https://t.me/hmanzur)
+[![](https://img.shields.io/static/v1?label=%20&message=Redit&logo=redit&style=for-the-badge&color=%23FF4500)](https://www.reddit.com/user/hmanzur)
 
 ## Skills
 
