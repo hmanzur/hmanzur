@@ -12,7 +12,12 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
 [![](https://img.shields.io/static/v1?label=Telegram&message=hmanzur&logo=telegram&style=for-the-badge&color=%2326A5E4)](https://t.me/hmanzur)
 [![](https://img.shields.io/static/v1?label=Reddit&message=hmanzur&logo=reddit&style=for-the-badge&color=%23FF4500)](https://www.reddit.com/user/hmanzur)
 [![](https://img.shields.io/static/v1?label=Dev.To&message=habibmanzur&logo=dev.to&style=for-the-badge&color=%230A0A0A)](https://dev.to/habibmanzur)
-[![](https://img.shields.io/static/v1?label=Gitlab&message=qhmanzur&logo=gitlab&style=for-the-badge&color=%23FCA121)](https://gitlab.com/hmanzur)
+[![](https://img.shields.io/static/v1?label=Gitlab&message=@hmanzur&logo=gitlab&style=for-the-badge&color=%23FCA121)](https://gitlab.com/hmanzur)
+[![](https://img.shields.io/static/v1?label=Stack%20Overflow&message=habib&logo=stackoverflow&style=for-the-badge&color=%23FE7A16)](https://stackoverflow.com/users/8877452/habib)
+[![](https://img.shields.io/static/v1?label=Twitch&message=hmanzur&logo=twitch&style=for-the-badge&color=%239146FF)](https://www.twitch.tv/hmanzur)
+
+![Nintendo Switch](https://img.shields.io/static/v1?label=Nintendo%20Switch&message=SW-4364-3761-7223&logo=nintendoswitch&style=for-the-badge&color=%23E60012)
+
 
 ## Skills
 
