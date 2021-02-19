@@ -8,11 +8,11 @@ On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. 
 # Social profiles
 
 [![](https://img.shields.io/static/v1?label=npmjs&message=~hmanzur&logo=npm&style=for-the-badge&color=%23CB3837)](https://www.npmjs.com/~hmanzur)
-[![](https://img.shields.io/static/v1?label=Linkedin&message=habibmanzur&logo=linkedin&style=for-the-badge&color=%23CB3837)](https://www.linkedin.com/in/habibmanzur/)
+[![](https://img.shields.io/static/v1?label=Linkedin&message=habibmanzur&logo=linkedin&style=for-the-badge&color=%230A66C2)](https://www.linkedin.com/in/habibmanzur/)
 [![](https://img.shields.io/static/v1?label=Telegram&message=hmanzur&logo=telegram&style=for-the-badge&color=%2326A5E4)](https://t.me/hmanzur)
 [![](https://img.shields.io/static/v1?label=Reddit&message=hmanzur&logo=reddit&style=for-the-badge&color=%23FF4500)](https://www.reddit.com/user/hmanzur)
-[![](https://img.shields.io/static/v1?label=Dev.To&message=habibmanzurlogo=dev.to&style=for-the-badge&color=%230A0A0A)](https://dev.to/habibmanzur)
-[![](https://img.shields.io/static/v1?label=Gitlab&message=@hmanzur&logo=gitlab&style=for-the-badge&color=%23FCA121)](https://gitlab.com/hmanzur)
+[![](https://img.shields.io/static/v1?label=Dev.To&message=habibmanzur&logo=dev.to&style=for-the-badge&color=%230A0A0A)](https://dev.to/habibmanzur)
+[![](https://img.shields.io/static/v1?label=Gitlab&message=qhmanzur&logo=gitlab&style=for-the-badge&color=%23FCA121)](https://gitlab.com/hmanzur)
 
 ## Skills
 
