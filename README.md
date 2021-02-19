@@ -4,8 +4,8 @@
 
 On my business card, I am a Sr Consultant DevOps. In my mind, I am a developer. But in my heart, I am a gamer.
 
-![~hmanzur](https://img.shields.io/static/v1?label=npmjs&message=~hmanzur&logo=npm&style=for-the-badge&color=%23CB3837&link=https://www.npmjs.com/~hmanzur)
-![@habibmanzur](https://img.shields.io/twitter/follow/habibmanzur?color=%231DA1F2&label=Follow%20me&logo=twitter&style=for-the-badge)
+[![~hmanzur](https://img.shields.io/static/v1?label=npmjs&message=~hmanzur&logo=npm&style=for-the-badge&color=%23CB3837)](https://www.npmjs.com/~hmanzur)
+[![@habibmanzur](https://img.shields.io/twitter/follow/habibmanzur?color=%231DA1F2&label=Follow%20me&logo=twitter&style=for-the-badge)](https://twitter.com/habibmanzur)
 [![~hmanzur](https://img.shields.io/static/v1?label=linkedin&message=In&logo=linkedin&style=for-the-badge&color=%23CB3837)](https://www.linkedin.com/in/habibmanzur/)
 
 
